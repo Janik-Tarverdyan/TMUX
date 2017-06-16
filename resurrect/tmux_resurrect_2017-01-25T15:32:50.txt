@@ -1,0 +1,7 @@
+pane	Learn[Python]	0	:python	1	:*	0	:/home/janik/.tmp/Python	1	python	:/usr/bin/python /usr/bin/bpython
+pane	Project[crm]	1	:bash	1	:*	0	:/srv/http/PHP/crm	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+window	Learn[Python]	0	1	:*	cbc0,150x48,0,0,3
+window	Project[crm]	1	1	:*	cbbe,150x48,0,0,1
+window	TMP	0	1	:*	cbbf,150x48,0,0,2
+state	Learn[Python]	TMP

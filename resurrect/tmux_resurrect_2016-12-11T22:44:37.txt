@@ -1,0 +1,6 @@
+pane	Gretong	0	:bash	1	:*	0	:/home/janik/.Projects/Layouts/Gretong	1	bash	:
+pane	Gretong	0	:bash	1	:*	1	:/home/janik/.Projects/Layouts/Gretong	0	bash	:
+pane	Gretong	2	:bash	0	:-	0	:/home/janik/.Projects/Layouts/Gretong	1	bash	:
+window	Gretong	0	1	:*	efcc,157x49,0,0[157x24,0,0,3,157x24,0,25,4]
+window	Gretong	2	0	:-	d343,157x49,0,0,6
+state	Gretong	

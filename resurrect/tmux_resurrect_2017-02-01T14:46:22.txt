@@ -1,0 +1,9 @@
+pane	Learn[Python]	0	:python	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+pane	Project[crm]	1	:bash	1	:*	0	:/srv/http/PHP/crm	1	bash	:
+pane	Project[wettgame]	0	:bash	1	:*	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+window	Learn[Python]	0	1	:*	ba7e,161x53,0,0,1
+window	Project[crm]	1	1	:*	ba7f,161x53,0,0,2
+window	Project[wettgame]	0	1	:*	ba7d,161x53,0,0,0
+window	TMP	0	1	:*	ba80,161x53,0,0,3
+state	Project[wettgame]	Learn[Python]

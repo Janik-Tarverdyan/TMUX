@@ -1,0 +1,13 @@
+pane	Learn[Python]	0	:python	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+pane	Project[crm]	1	:bash	1	:*	0	:/srv/http/PHP/crm	1	bash	:
+pane	Project[wettgame]	0	:Root	1	:*	0	:/srv/http/PHP/wettgame	1	bash	:sudo -i
+pane	Project[wettgame]	1	:Server	0	:	0	:/srv/http/PHP/wettgame/fake_api	1	node	:node app.js
+pane	Project[wettgame]	2	:bash	0	:-	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp/PHP/wettgame/fake_api	1	bash	:
+window	Learn[Python]	0	1	:*	c0fe,166x54,0,0,1
+window	Project[crm]	1	1	:*	c0ff,166x54,0,0,2
+window	Project[wettgame]	0	1	:*	c0fd,166x54,0,0,0
+window	Project[wettgame]	1	0	:	c101,166x54,0,0,4
+window	Project[wettgame]	2	0	:-	c106,166x54,0,0,9
+window	TMP	0	1	:*	c100,166x54,0,0,3
+state	Project[wettgame]	Learn[Python]

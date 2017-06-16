@@ -1,0 +1,7 @@
+pane	Project[Ultimate_Vim]	0	:bash	1	:*	0	:/home/janik/.Projects/Ultimate_Vim	1	bash	:
+pane	Project[agent-installer]	0	:bash	1	:*	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp	1	bash	:
+window	Project[Ultimate_Vim]	0	1	:*	cb83,182x57,0,0,6
+window	Project[agent-installer]	0	1	:*	cb7e,182x57,0,0,1
+window	TMP	0	1	:*	cb7f,182x57,0,0,2
+state	Project[Ultimate_Vim]	TMP

@@ -1,0 +1,6 @@
+pane	Project[crm]	0	:bash	1	:*	0	:/srv/http/PHP/crm/info	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/srv/http/PHP	0	bash	:
+pane	TMP	0	:bash	1	:*	1	:/srv/http/PHP/crm	1	bash	:
+window	Project[crm]	0	1	:*	b9c1,158x52,0,0,4
+window	TMP	0	1	:*	e1df,158x52,0,0[158x26,0,0,0,158x25,0,27,2]
+state	Project[crm]	TMP

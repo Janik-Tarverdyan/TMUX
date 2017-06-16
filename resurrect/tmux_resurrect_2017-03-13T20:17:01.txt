@@ -1,0 +1,11 @@
+pane	Learn[Bash]	0	:bash	1	:*	0	:/home/janik/.tmp/Bash	1	bash	:
+pane	Learn[Python]	0	:bash	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+pane	Project[FrameWork]	0	:bash	1	:*	0	:/home/janik/.Projects/FrameWork	1	bash	:
+pane	Project[agent-installer]	0	:bash	1	:*	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+pane	TMP	1	:bash	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+window	Learn[Bash]	0	1	:*	6bd8,199x59,0,0,19
+window	Learn[Python]	0	1	:*	6bd6,199x59,0,0,36
+window	Project[FrameWork]	0	1	:*	d6fe,189x59,0,0,1
+window	Project[agent-installer]	0	1	:*	c600,122x37,0,0,3
+window	TMP	1	1	:*	d2a3,204x59,0,0,6
+state	Learn[Python]	Learn[Bash]

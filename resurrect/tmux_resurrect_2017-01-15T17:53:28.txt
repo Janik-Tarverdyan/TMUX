@@ -1,0 +1,15 @@
+pane	Atlassian[Confluence]	0	:vim	1	:*	0	:/home/janik/.Projects/Bash/atlassian-confluence-information-system	0	bash	:
+pane	Atlassian[Confluence]	0	:vim	1	:*	1	:/home/janik/.Projects/Bash/atlassian-confluence-information-system	1	bash	:
+pane	Atlassian[Confluence]	1	:bash	0	:-	0	:/home/janik/.Projects/Bash/atlassian-confluence-information-system	1	bash	:
+pane	Install and Configure	0	:bash	1	:*	0	:/home/janik	0	bash	:
+pane	Install and Configure	0	:bash	1	:*	1	:/srv/http	1	bash	:
+pane	Install and Configure	1	:bash	0	:	0	:/home/janik	1	bash	:
+pane	Install and Configure	2	:bash	0	:-	0	:/home/janik	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp	1	bash	:
+window	Atlassian[Confluence]	0	1	:*	7e5f,158x50,0,0[158x33,0,0,1,158x16,0,34,2]
+window	Atlassian[Confluence]	1	0	:-	b1c0,158x50,0,0,3
+window	Install and Configure	0	1	:*	fe66,158x50,0,0[158x33,0,0,4,158x16,0,34,5]
+window	Install and Configure	1	0	:	b1c3,158x50,0,0,6
+window	Install and Configure	2	0	:-	b1c4,158x50,0,0,7
+window	TMP	0	1	:*	b9c6,158x52,0,0,9
+state	TMP	Install and Configure

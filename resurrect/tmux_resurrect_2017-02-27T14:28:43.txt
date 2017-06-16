@@ -1,0 +1,26 @@
+pane	Installation	0	:bash	1	:*	0	:/home/janik	1	bash	:
+pane	Learn[Bash]	0	:bash	1	:*	0	:/home/janik/.tmp/BASH/Learn/First	1	bash	:
+pane	Learn[Python]	0	:python	1	:*	0	:/home/janik/.tmp/BASH/Learn/First	1	bash	:
+pane	Project[VideoConferance]	0	:bash	1	:*	0	:/home/janik/.Projects/NodeJS/videoconference	1	bash	:
+pane	Project[agent-install]	0	:bash	1	:*	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+pane	Project[agent-install]	1	:ssh	0	:-	0	:/home/janik/.ssh	1	ssh	:ssh -i SSH_Key root@45.55.217.138
+pane	Project[crm]	1	:bash	1	:*	0	:/home/janik	1	bash	:
+pane	Project[wettgame]	0	:Root	1	:*	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	Project[wettgame]	1	:Server	0	:	0	:/srv/http/PHP/wettgame/fake_api	1	bash	:
+pane	Project[wettgame]	2	:bash	0	:-	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.Projects/NodeJS/videoconference	1	bash	:
+pane	TMP	1	:bash	0	:-	0	:/home/janik/.Projects/Bash/agent_install	0	bash	:
+pane	TMP	1	:bash	0	:-	1	:/etc	1	bash	:
+window	Installation	0	1	:*	cb7e,182x57,0,0,1
+window	Learn[Bash]	0	1	:*	cb7f,182x57,0,0,2
+window	Learn[Python]	0	1	:*	cb80,182x57,0,0,3
+window	Project[VideoConferance]	0	1	:*	cb81,182x57,0,0,4
+window	Project[agent-install]	0	1	:*	cb82,182x57,0,0,5
+window	Project[agent-install]	1	0	:-	65f4,182x57,0,0,15
+window	Project[crm]	1	1	:*	cb85,182x57,0,0,8
+window	Project[wettgame]	0	1	:*	cb86,182x57,0,0,9
+window	Project[wettgame]	1	0	:	65ef,182x57,0,0,10
+window	Project[wettgame]	2	0	:-	65f0,182x57,0,0,11
+window	TMP	0	1	:*	65f1,182x57,0,0,12
+window	TMP	1	0	:-	7552,182x57,0,0[182x28,0,0,13,182x28,0,29,14]
+state	Project[agent-install]	Project[VideoConferance]

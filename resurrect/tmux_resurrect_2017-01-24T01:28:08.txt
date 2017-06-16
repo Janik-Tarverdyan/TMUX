@@ -1,0 +1,5 @@
+pane	Project[crm]	1	:bash	1	:*	0	:/srv/http/PHP/crm	1	fish	:/usr/bin/fish
+pane	TMP	0	:fish	1	:*	0	:/home/janik/.tmp	1	fish	:/usr/bin/fish
+window	Project[crm]	1	1	:*	cbc1,150x48,0,0,4
+window	TMP	0	1	:*	cbbf,150x48,0,0,2
+state	TMP	Project[crm]

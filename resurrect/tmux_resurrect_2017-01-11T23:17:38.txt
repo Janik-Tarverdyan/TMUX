@@ -1,0 +1,8 @@
+pane	Atlassian[Confluence]	0	:vim	1	:*	0	:/home/janik/.Projects/Bash/atlassian-confluence-information-system	1	vim	:vim
+pane	Atlassian[Confluence]	0	:vim	1	:*	1	:/home/janik/.Projects/Bash/atlassian-confluence-information-system	0	bash	:
+pane	Atlassian[Confluence]	1	:bash	0	:-	0	:/home/janik/.Projects/Bash/atlassian-confluence-information-system	1	bash	:
+pane	Install	0	:bash	1	:*	0	:/home/janik	1	bash	:
+window	Atlassian[Confluence]	0	1	:*	9447,228x63,0,0[228x51,0,0,3,228x11,0,52,14]
+window	Atlassian[Confluence]	1	0	:-	5912,158x50,0,0,13
+window	Install	0	1	:*	bf1d,228x63,0,0,0
+state	Atlassian[Confluence]	Install

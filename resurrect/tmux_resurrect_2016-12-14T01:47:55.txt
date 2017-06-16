@@ -1,0 +1,8 @@
+pane	Gretong	0	:bash	1	:*	0	:/home/janik/.Projects/Layouts/Gretong	0	bash	:
+pane	Gretong	0	:bash	1	:*	1	:/home/janik/.Projects/Layouts/Gretong	1	bash	:
+pane	Gretong	2	:bash	0	:-	0	:/home/janik/.Projects/Layouts/Gretong	1	bash	:
+pane	Installation	0	:vim	1	:*	0	:/home/janik/.tmp/HAML	1	vim	:vim test.haml
+window	Gretong	0	1	:*	efc7,157x49,0,0[157x24,0,0,1,157x24,0,25,2]
+window	Gretong	2	0	:-	d340,157x49,0,0,3
+window	Installation	0	1	:*	d33d,157x49,0,0,0
+state	Installation	Gretong

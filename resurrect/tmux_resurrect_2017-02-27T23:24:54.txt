@@ -1,0 +1,3 @@
+pane	Project[agent-installer]	0	:bash	1	:*	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+window	Project[agent-installer]	0	1	:*	b33f,195x60,0,0,2
+state	Project[agent-installer]	

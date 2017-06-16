@@ -1,0 +1,11 @@
+pane	Project_1	0	:Server	0	:-	0	:/home/janik/.tmp/Avo/Project/Tmux	1	bash	:
+pane	Project_1	1	:Project	1	:*	0	:/home/janik/.tmp/Avo/Project/Tmux	1	bash	:
+pane	Project_2	0	:bash	1	:*	0	:/home/janik/.tmp/Avo/Project/Tmux	1	bash	:
+pane	Tmux_work	0	:Server	1	:*	0	:/home/janik/.tmp/Avo/Project/Tmux	1	bash	:
+pane	Tmux_work	1	:Project	0	:-	0	:/home/janik/.tmp/Avo/Project/Tmux	1	bash	:
+window	Project_1	0	0	:-	b6bf,114x33,0,0,2
+window	Project_1	1	1	:*	b6c0,114x33,0,0,3
+window	Project_2	0	1	:*	b6c1,114x33,0,0,4
+window	Tmux_work	0	1	:*	b6bd,114x33,0,0,0
+window	Tmux_work	1	0	:-	b6be,114x33,0,0,1
+state	Tmux_work	Project_1

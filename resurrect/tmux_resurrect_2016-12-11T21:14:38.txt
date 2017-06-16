@@ -1,0 +1,6 @@
+pane	Gretong	0	:bash	1	:*	0	:/home/janik/.Projects/Layouts/Gretong	0	ruby	:/usr/bin/ruby /usr/bin/sass --watch web/css/style.scss:web/css/style.css
+pane	Gretong	0	:bash	1	:*	1	:/home/janik/.Projects/Layouts/Gretong	1	bash	:
+pane	Gretong	1	:vim	0	:-	0	:/home/janik/.Projects/Layouts/Gretong/web/css	1	vim	:vim web/
+window	Gretong	0	1	:*	607c,228x60,0,0[228x30,0,0,3,228x29,0,31,4]
+window	Gretong	1	0	:-	b31d,228x60,0,0,0
+state	Gretong	

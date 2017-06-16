@@ -1,0 +1,17 @@
+pane	Installation	0	:bash	1	:*	0	:/home/janik	1	bash	:
+pane	Learn[Python]	0	:python	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+pane	Project[agent-install]	0	:bash	1	:*	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+pane	Project[crm]	1	:bash	1	:*	0	:/home/janik	1	bash	:
+pane	Project[wettgame]	0	:Root	1	:*	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	Project[wettgame]	1	:Server	0	:	0	:/srv/http/PHP/wettgame/fake_api	1	bash	:
+pane	Project[wettgame]	2	:bash	0	:-	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp/BASH	1	vim	:vim test.sh
+window	Installation	0	1	:*	d1be,177x58,0,0,1
+window	Learn[Python]	0	1	:*	d17f,186x58,0,0,2
+window	Project[agent-install]	0	1	:*	d1c0,177x58,0,0,3
+window	Project[crm]	1	1	:*	b802,164x52,0,0,5
+window	Project[wettgame]	0	1	:*	b803,164x52,0,0,6
+window	Project[wettgame]	1	0	:	b804,164x52,0,0,7
+window	Project[wettgame]	2	0	:-	b805,164x52,0,0,8
+window	TMP	0	1	:*	d1c6,177x58,0,0,9
+state	Project[agent-install]	TMP

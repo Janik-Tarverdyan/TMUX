@@ -1,0 +1,8 @@
+pane	Gretong	0	:bash	1	:*	0	:/home/janik/.Projects/Layouts/Gretong	0	bash	:
+pane	Gretong	0	:bash	1	:*	1	:/home/janik/.Projects/Layouts/Gretong	1	bash	:
+pane	Gretong	2	:bash	0	:-	0	:/home/janik/.Projects/Layouts/Gretong	1	bash	:
+pane	Home	0	:bash	1	:*	0	:/home/janik	1	bash	:
+window	Gretong	0	1	:*	80fa,228x63,0,0[228x31,0,0,1,228x31,0,32,2]
+window	Gretong	2	0	:-	bf20,228x63,0,0,3
+window	Home	0	1	:*	bf1d,228x63,0,0,0
+state	Home	

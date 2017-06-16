@@ -1,0 +1,10 @@
+#!/bin/bash
+
+ENV="$( find ./ -name activate )"
+
+if [ -e "$ENV" ]; then
+  command /bin/bash --rcfile "$ENV"
+  #command source "$(find ./ -name activate)"
+else
+  command /bin/bash --rcfile ~/.bashrc
+fi

@@ -1,0 +1,26 @@
+pane	Installation	0	:bash	1	:*	0	:/home/janik	1	bash	:
+pane	Learn[Bash]	0	:bash	1	:*	0	:/home/janik/.tmp/BASH/Learn/First	1	bash	:
+pane	Learn[Python]	0	:python	1	:*	0	:/home/janik/.tmp/BASH/Learn/First	1	bash	:
+pane	Project[agent-install]	0	:bash	0	:-	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+pane	Project[agent-install]	1	:bash	1	:*	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+pane	Project[agent-install]	2	:bash	0	:	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+pane	Project[crm]	1	:bash	1	:*	0	:/home/janik	1	bash	:
+pane	Project[wettgame]	0	:Root	1	:*	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	Project[wettgame]	1	:Server	0	:	0	:/srv/http/PHP/wettgame/fake_api	1	bash	:
+pane	Project[wettgame]	2	:bash	0	:-	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp/UpWork/Testing/agent_install/CentOS_511	1	ssh	:ssh root@67.205.133.133 -p 22
+pane	TMP	1	:bash	0	:-	0	:/home/janik/.Projects/Bash/agent_install	0	vim	:vim nixstatsagent.sh
+pane	TMP	1	:bash	0	:-	1	:/etc	1	bash	:
+window	Installation	0	1	:*	b31e,228x60,0,0,1
+window	Learn[Bash]	0	1	:*	b31f,228x60,0,0,2
+window	Learn[Python]	0	1	:*	b320,228x60,0,0,3
+window	Project[agent-install]	0	0	:-	cf81,182x58,0,0,4
+window	Project[agent-install]	1	1	:*	5fbf,228x63,0,0,10
+window	Project[agent-install]	2	0	:	67f2,182x58,0,0,13
+window	Project[crm]	1	1	:*	b322,228x60,0,0,5
+window	Project[wettgame]	0	1	:*	b323,228x60,0,0,6
+window	Project[wettgame]	1	0	:	b324,228x60,0,0,7
+window	Project[wettgame]	2	0	:-	b325,228x60,0,0,8
+window	TMP	0	1	:*	bf26,228x63,0,0,9
+window	TMP	1	0	:-	3818,228x63,0,0[228x31,0,0,15,228x31,0,32,16]
+state	TMP	Project[agent-install]

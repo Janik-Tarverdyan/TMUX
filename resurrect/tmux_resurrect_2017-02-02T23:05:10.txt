@@ -1,0 +1,14 @@
+pane	Learn[Python]	0	:python	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+pane	Project[crm]	1	:bash	1	:*	0	:/srv/http/PHP/crm	1	bash	:
+pane	Project[wettgame]	0	:Root	1	:*	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	Project[wettgame]	1	:Server	0	:	0	:/srv/http/PHP/wettgame/fake_api	1	bash	:
+pane	Project[wettgame]	2	:bash	0	:-	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp/BASH	0	vim	:vim CIP.sh
+pane	TMP	0	:bash	1	:*	1	:/home/janik/.tmp/BASH	1	bash	:
+window	Learn[Python]	0	1	:*	ae7e,161x50,0,0,1
+window	Project[crm]	1	1	:*	ae7f,161x50,0,0,2
+window	Project[wettgame]	0	1	:*	b280,161x51,0,0,3
+window	Project[wettgame]	1	0	:	ae81,161x50,0,0,4
+window	Project[wettgame]	2	0	:-	ae82,161x50,0,0,5
+window	TMP	0	1	:*	8a8c,228x63,0,0[228x41,0,0,6,228x21,0,42,18]
+state	TMP	Project[wettgame]

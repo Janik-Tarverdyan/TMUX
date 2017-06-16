@@ -1,0 +1,16 @@
+pane	Learn[Python]	0	:python	1	:*	0	:/home/janik/.tmp/Python	1	bash	:
+pane	Project[Installers]	0	:bash	1	:*	0	:/home/janik/.Projects/Bash/Installers	1	bash	:
+pane	Project[crm]	1	:bash	1	:*	0	:/home/janik/.Projects/Bash/Installers	1	bash	:
+pane	Project[wettgame]	0	:Root	1	:*	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	Project[wettgame]	1	:Server	0	:	0	:/srv/http/PHP/wettgame/fake_api	1	bash	:
+pane	Project[wettgame]	2	:bash	0	:-	0	:/srv/http/PHP/wettgame	1	bash	:
+pane	TMP	0	:bash	1	:*	0	:/home/janik/.tmp/BASH	0	bash	:
+pane	TMP	0	:bash	1	:*	1	:/home/janik/.tmp/BASH	1	bash	:
+window	Learn[Python]	0	1	:*	b6fe,162x52,0,0,1
+window	Project[Installers]	0	1	:*	b705,162x52,0,0,8
+window	Project[crm]	1	1	:*	b6ff,162x52,0,0,2
+window	Project[wettgame]	0	1	:*	b700,162x52,0,0,3
+window	Project[wettgame]	1	0	:	b701,162x52,0,0,4
+window	Project[wettgame]	2	0	:-	b702,162x52,0,0,5
+window	TMP	0	1	:*	713d,162x52,0,0[162x34,0,0,6,162x17,0,35,7]
+state	Project[Installers]	Project[crm]

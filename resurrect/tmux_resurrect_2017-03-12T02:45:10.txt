@@ -1,0 +1,11 @@
+pane	Project[FrameWork]	0	:bash	1	:*	0	:/home/janik/.Projects/FrameWork	0	bash	:
+pane	Project[FrameWork]	0	:bash	1	:*	1	:/home/janik/.Projects/FrameWork	1	bash	:
+pane	Project[agent-installer]	0	:bash	1	:*	0	:/home/janik/.Projects/Bash/agent_install	1	bash	:
+pane	TMP	0	:bash	0	:-	0	:/home/janik/.tmp/PHP/Laravel_Test	1	vim	:vim .env
+pane	TMP	0	:bash	0	:-	1	:/home/janik/.tmp/PHP/Laravel_Test/public	0	php	:php ./artisan serv
+pane	TMP	1	:bash	1	:*	0	:/home/janik/.tmp/PHP	1	bash	:
+window	Project[FrameWork]	0	1	:*	148a,228x63,0,0[228x41,0,0,7,228x21,0,42,9]
+window	Project[agent-installer]	0	1	:*	bf20,228x63,0,0,3
+window	TMP	0	0	:-	00c8,228x63,0,0[228x31,0,0,4,228x31,0,32,13]
+window	TMP	1	1	:*	5fc3,228x63,0,0,14
+state	Project[FrameWork]	TMP
