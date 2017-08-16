@@ -1,10 +1,12 @@
 #!/bin/bash
 
-ENV="$( find ./ -name activate )"
+if [ "$PWD" != "$HOME" ];then
+  # Vairtual env
+  ENV="$( command find ./ -name activate )"
 
-if [ -e "$ENV" ]; then
-  command /bin/bash --rcfile "$ENV"
-  #command source "$(find ./ -name activate)"
-else
-  command /bin/bash --rcfile ~/.bashrc
+  if [ -e "$ENV" ]; then
+    command /bin/bash --rcfile "$ENV"
+  else
+    command /bin/bash --rcfile ~/.bashrc
+  fi
 fi
