@@ -9,4 +9,6 @@ if [ "$PWD" != "$HOME" ];then
   else
     command /bin/bash --rcfile ~/.bashrc
   fi
+else
+  command source ~/.bashrc
 fi
