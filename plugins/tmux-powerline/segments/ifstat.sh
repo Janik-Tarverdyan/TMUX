@@ -19,6 +19,10 @@ run_segment() {
 	for inf in ${interfaces}; do
 		type=""
 		case ${inf} in
+			eno1*) type="⎆"
+				;;
+			wlo1*) type="☫"
+				;;
 			eth*) type="⎆"
 				;;
 			wlan*) type="☫"
